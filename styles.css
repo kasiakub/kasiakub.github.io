@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-size: 20px;
+    background-image: url(inter2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+   
+   
+}
+.main {
+    display: flex;
+    align-items: flex-end;  
+    height: 100vh;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 60%;
+}
+
+h1 {
+    font-size: 30px;
+    color:  #006600;
+    padding-right:10px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+
+.btn {
+    align-items: center;
+    margin:auto;
+    margin-top:0;
+}
+
